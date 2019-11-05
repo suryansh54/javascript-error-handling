@@ -47,9 +47,9 @@ function func(){
 ```
 
 ###### References 
-https://www.w3schools.com/js/js_errors.asp
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling
-https://www.geeksforgeeks.org/javascript-error-and-exceptional-handling-with-examples
-https://www.tutorialspoint.com/javascript/javascript_error_handling.htm
-https://medium.com/@iaincollins/error-handling-in-javascript-a6172ccdf9af
-https://javascript.info/try-catch
+- https://www.w3schools.com/js/js_errors.asp
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling
+- https://www.geeksforgeeks.org/javascript-error-and-exceptional-handling-with-examples
+- https://www.tutorialspoint.com/javascript/javascript_error_handling.htm
+- https://medium.com/@iaincollins/error-handling-in-javascript-a6172ccdf9af
+- https://javascript.info/try-catch
